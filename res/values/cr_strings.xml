@@ -8,10 +8,10 @@
     <string name="temasek_version_default">V43.1-private</string>
 
     <!-- General strings -->
-    <string name="reset">Reset</string>
-    <string name="enabled">Enabled</string>
-    <string name="attention">Attention</string>
-    <string name="disabled">Disabled</string>
+    <string name="resetta">Reset</string>
+    <string name="abilitato">Enabled</string>
+    <string name="attenzione">Attention</string>
+    <string name="disabilitato">Disabled</string>
     <string name="default_string">Default</string>
     <string name="additional_options_title">Additional options</string>
     <string name="reset_message">Reset all entries to default?</string>
